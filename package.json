@@ -7,7 +7,7 @@
     "start": "netlify-lambda serve src/lambda",
     "build": "netlify-lambda build src/lambda"
   },
-  "author": "shreygupta",
+  "author": "Ye, shreygupta",
   "license": "MIT",
   "devDependencies": {
     "netlify-lambda": "^0.4.0"
